@@ -30,10 +30,10 @@ Great Bay University<br>
 This is the github repository of *H-GAR: A Hierarchical Interaction Framework via Goal-Driven
  Observation-Action Refinement for Robotic Manipulation*. In this work, we introduce H-GAR, a Hierarchical interaction framework via Goal-driven observation-action refinement for robotic manipulation.
 
-The whole framework of EmoSym:
+The whole framework of H-GAR:
 
 <div align="center">
-<img src='assets/methods.png' width='100%'>
+<img src='assets/method.png' width='100%'>
 </div>
 
 ## :fire: Details will be released. Stay tuned.
